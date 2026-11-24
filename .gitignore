@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+local.json
+test-results/
+reports/
+allure-results*/
+allure-report*/

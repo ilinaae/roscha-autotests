@@ -1,0 +1,24 @@
+{
+  "base_url": "https://roscha.net",
+  "timeout_ms": 8000,
+  "navigation_timeout_ms": 20000,
+  "account": {
+    "email": "",
+    "phone": "",
+    "login": "",
+    "password": "",
+    "marker": ""
+  },
+  "product": {
+    "query": "",
+    "name": "",
+    "article": "",
+    "id": "",
+    "price": "",
+    "unit": "шт.",
+    "variant": ""
+  },
+  "paths": {},
+  "selectors": {},
+  "errors": {}
+}
